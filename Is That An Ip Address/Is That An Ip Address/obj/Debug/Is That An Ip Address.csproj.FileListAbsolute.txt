@@ -1,0 +1,7 @@
+E:\GitHub\LogicalPrograms_2.0\Is That An Ip Address\Is That An Ip Address\bin\Debug\Is That An Ip Address.exe.config
+E:\GitHub\LogicalPrograms_2.0\Is That An Ip Address\Is That An Ip Address\bin\Debug\Is That An Ip Address.exe
+E:\GitHub\LogicalPrograms_2.0\Is That An Ip Address\Is That An Ip Address\bin\Debug\Is That An Ip Address.pdb
+E:\GitHub\LogicalPrograms_2.0\Is That An Ip Address\Is That An Ip Address\obj\Debug\Is That An Ip Address.csprojResolveAssemblyReference.cache
+E:\GitHub\LogicalPrograms_2.0\Is That An Ip Address\Is That An Ip Address\obj\Debug\Is That An Ip Address.csproj.CoreCompileInputs.cache
+E:\GitHub\LogicalPrograms_2.0\Is That An Ip Address\Is That An Ip Address\obj\Debug\Is That An Ip Address.exe
+E:\GitHub\LogicalPrograms_2.0\Is That An Ip Address\Is That An Ip Address\obj\Debug\Is That An Ip Address.pdb
